@@ -1,1 +1,1 @@
-class demo{}
+class demo{static{}}

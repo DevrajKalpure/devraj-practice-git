@@ -1,1 +1,3 @@
-class Demo{}
+class Demo{
+	static int a;
+}
